@@ -13,6 +13,6 @@ development: 開発途中のもの
 このリポジトリはGO版なので
 Python版やRust版もあるのでお好みでご利用ください。
 
-## Lチカ
+## Lチカ (001_led_flash)
 
 電子工作版「Hello World」
